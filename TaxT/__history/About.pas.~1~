@@ -1,0 +1,42 @@
+unit About;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls,JclShell;
+
+type
+  TAboutBox = class(TForm)
+    Panel1: TPanel;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    hereL: TLabel;
+    Label6: TLabel;
+    developerL: TLabel;
+    procedure hereLClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  AboutBox: TAboutBox;
+
+implementation
+
+{$R *.dfm}
+
+procedure TAboutBox.hereLClick(Sender: TObject);
+begin
+ ShellExecEx('http://www.nexus.globalquakemodel.org/gem-ontology-taxonomy/posts/updated-gem-basic-building-taxonomy-v1.0', '','open', SW_SHOWNORMAL)
+
+end;
+
+
+
+
+end.

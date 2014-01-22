@@ -1,0 +1,18 @@
+program GEMTAXT;
+
+uses
+  Forms,
+  About in 'About.pas' {AboutBox},
+  TaxT in 'TaxT.pas' {mainForm},
+  PDFcreator in 'PDFcreator.pas' {PDFform};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'TaxT - GEM Building Taxonomy Tester';
+  Application.CreateForm(TAboutBox, AboutBox);
+  Application.CreateForm(TmainForm, mainForm);
+  Application.CreateForm(TPDFform, PDFform);
+  Application.Run;
+end.

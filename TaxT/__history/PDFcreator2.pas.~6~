@@ -1,0 +1,77 @@
+unit PDFcreator2;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, PReport, ExtCtrls, PRJpegImage, PdfDoc, JPEG;
+
+type
+  TPDFform2 = class(TForm)
+    PReport: TPReport;
+    Page: TPRPage;
+    PRLayoutPanel1: TPRLayoutPanel;
+    Image: TPRImage;
+    PRLabel1: TPRLabel;
+    AL1: TPRLabel;
+    PRLabel4: TPRLabel;
+    AT21: TPRText;
+    PDFReport: TPRLabel;
+    AL3: TPRLabel;
+    AL4: TPRLabel;
+    AL5: TPRLabel;
+    AL6: TPRLabel;
+    AL14: TPRLabel;
+    AL17: TPRLabel;
+    AL15: TPRLabel;
+    PDFAuthors: TPRLabel;
+    warning: TPRLabel;
+    AL13: TPRLabel;
+    AL16: TPRLabel;
+    AL18: TPRLabel;
+    AL20: TPRLabel;
+    AL19: TPRLabel;
+    AL7: TPRLabel;
+    AL11: TPRLabel;
+    AL12: TPRLabel;
+    AL10: TPRLabel;
+    AL8: TPRLabel;
+    PDFTaxonomy: TPRText;
+    PRLabel19: TPRLabel;
+    AL9: TPRLabel;
+    AL2: TPRLabel;
+    AT1: TPRText;
+    AL21: TPRLabel;
+    AT3: TPRText;
+    AT5: TPRText;
+    AT2: TPRText;
+    AT4: TPRText;
+    AT6: TPRText;
+    AT7: TPRText;
+    AT8: TPRText;
+    AT9: TPRText;
+    AT13: TPRText;
+    AT11: TPRText;
+    AT14: TPRText;
+    AT12: TPRText;
+    AT10: TPRText;
+    AT16: TPRText;
+    AT18: TPRText;
+    AT20: TPRText;
+    AT15: TPRText;
+    AT17: TPRText;
+    AT19: TPRText;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  PDFform2: TPDFform2;
+
+implementation
+
+{$R *.dfm}
+
+end.

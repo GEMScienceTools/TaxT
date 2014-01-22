@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/11/24 19:15:33.527.pas,C:\Users\Vitor Silva\Documents\Borland Studio Projects\Unit1.pas=C:\Users\Vitor Silva\Desktop\GEM\TaxT\TaxT.pas</Transaction>
+    <Transaction>2012/11/24 19:15:33.527.dfm,C:\Users\Vitor Silva\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\Vitor Silva\Desktop\GEM\TaxT\TaxT.dfm</Transaction>
+    <Transaction>2012/11/24 19:15:55.477.bdsproj,C:\Users\Vitor Silva\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\Vitor Silva\Desktop\GEM\TaxT\GEMTAXT.bdsproj</Transaction>
+    <Transaction>2013/01/18 15:23:52.041.pas,C:\Users\Vitor Silva\Desktop\GEM\TaxT\Unit2.pas=C:\Users\Vitor Silva\Desktop\GEM\TaxT\CreateReport.pas</Transaction>
+    <Transaction>2013/01/18 15:23:52.041.dfm,C:\Users\Vitor Silva\Desktop\GEM\TaxT\Unit2.dfm=C:\Users\Vitor Silva\Desktop\GEM\TaxT\CreateReport.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
