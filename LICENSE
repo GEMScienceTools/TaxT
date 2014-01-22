@@ -1,0 +1,18 @@
+LICENSE
+
+Copyright (c) 2013, Vitor Silva
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+- Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+- Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+DISCLAIMER
+
+The software TaxT provided herein is released as a prototype implementation on behalf of scientists and engineers working within the GEM (Global Earthquake Model) Foundation. It is distributed for the purpose of open collaboration and in the hope that is will be useful to the scientific, engineering and software design communities. 
+
+The software is NOT distributed as part of the GEM OpenQuake suite (www.globalquakemodel.org/openquake) and must be considered as a separate entity. The software provided herein is designed and implemented by scientific staff. It is not developed to the design standards, nor subject to same level of critical review by professional software developers, as the GEM OpenQuake software suite.  
+
+Feedback and contribution to the software is welcome, and can be directed to the scientific staff of the GEM Model Facility (www.globalquakemodel.org). 
